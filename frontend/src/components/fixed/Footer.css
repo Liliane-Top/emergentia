@@ -1,0 +1,45 @@
+
+.fixed-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: darkseagreen;
+    margin-bottom: 0;
+    padding-bottom: 1%;
+}
+
+hr {
+    background-color: darkslategray;
+    height: 3px;
+    padding-bottom: 3px;
+}
+
+.footer {
+
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 1.5rem;
+    /*color: rgba(255, 255, 255, .5) !important;*/
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: -100px;
+}
+
+
+.copyright1 {
+    color: black;
+    font-size: 1.3rem;
+    font-style: italic;
+    float: left;
+    margin-left: 5%;
+}
+
+.copyright2 {
+    color: black;
+    font-size: 1.3rem;
+    float: right;
+    font-style: italic;
+    padding-right: 5%;
+}
